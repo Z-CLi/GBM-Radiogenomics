@@ -1,2 +1,2 @@
 # GBM-Radiogenomics
-Pathway enrichment analysis
+Biological pathways underpinning prognostic radiomics phenotypes in glioblastoma: a multicenter study with paired MRI and RNA sequencing
